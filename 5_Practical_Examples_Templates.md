@@ -111,7 +111,7 @@ deploy_staging:
 
 Here, `deploy_staging` runs post-testing and only for the `develop` branch.
 
-## 5.5 Advanced Example: Multi-environment Deployment
+## 5.5 Multi-environment Deployment
 
 Manage multi-environment deployments effectively:
 
