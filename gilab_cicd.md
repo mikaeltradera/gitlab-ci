@@ -1,5 +1,5 @@
 
-# 2. Introduction to GitLab CI/CD
+# 1. Introduction to GitLab CI/CD
 
 ## What is GitLab CI/CD?
 
@@ -147,9 +147,7 @@ A basic `.gitlab-ci.yml` file includes the following key components:
 - GitLab CI/CD Best Practices: A curated list of best practices and tips for optimizing your CI/CD pipelines.
 
 
-
-
-# Section 3: Running Scripts in Your .gitlab-ci.yml
+# 3. Running Scripts in Your .gitlab-ci.yml
 
 In GitLab CI/CD, the `.gitlab-ci.yml` file orchestrates the pipeline's activities. One of its core functionalities is to trigger scripts that facilitate automated processes such as testing, building, deploying, among others. This section delves into various methods to run scripts within this file.
 
@@ -246,7 +244,7 @@ rollback_job:
 
 
 
-# Advanced Scripting in GitLab CI/CD
+# 4. Advanced Scripting in GitLab CI/CD
 
 This document provides detailed examples of advanced scripting techniques in GitLab CI/CD pipelines to automate and enhance your DevOps workflow, along with explanations for each example.
 
@@ -389,7 +387,7 @@ build_and_push:
 
 
 
-# Section 5: Practical Examples and Templates
+# 5. Practical Examples and Templates
 
 In GitLab CI/CD, the `.gitlab-ci.yml` file is central to your CI/CD pipeline. It defines how your project is built, tested, and deployed. Here, we'll present some practical examples and templates to enhance your understanding and help you craft effective pipelines.
 
