@@ -1,5 +1,5 @@
 
-# Section 1: Introduction to GitLab CI/CD
+# 2. Introduction to GitLab CI/CD
 
 ## What is GitLab CI/CD?
 
